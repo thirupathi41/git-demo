@@ -1,4 +1,2 @@
-rutrhthkty,kjmytkjmhnkhgmkjmhmgnkmfvmfjndfkmfdkjdfggdfkmdfkbwwqqwwwww
-:w
-:q
-
+hello  world 
+im trying to inter in to new world
